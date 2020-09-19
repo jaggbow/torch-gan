@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2769215d-f9cc-46a5-b025-d2b2cbafe7cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Notebooks/GAN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/GAN.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +29,16 @@
   </component>
   <component name="JupyterTrust" id="93918402-60e4-4a6e-88bb-90a8f8f22015" />
   <component name="ProjectId" id="1hgvGw0CFlyNhz4sFHoNK4ns3IK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
@@ -66,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600445457665</updated>
-      <workItem from="1600445458884" duration="23863000" />
+      <workItem from="1600445458884" duration="24591000" />
     </task>
     <task id="LOCAL-00001" summary="initial-commit">
       <created>1600513497526</created>
@@ -81,7 +85,19 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial-commit" />
     <option name="LAST_COMMIT_MESSAGE" value="initial-commit" />
   </component>
